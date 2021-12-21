@@ -30,5 +30,3 @@ Anismuz
 - Use WASD to move 
 - Space to shoot 
 - Try to get a high score without hitting an asteroid!
-
-- original music & score

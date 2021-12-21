@@ -1050,4 +1050,5 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/Asteroids 2.unity
   - Assets/Scenes/Death.unity
-  playerPath: /Users/tristanengen/Desktop/asteroids/Asteroids 2/Saturn (Demo).app
+  playerPath: /Users/tristanengen/Desktop/asteroids/Asteroids 2/Builds/Saturn (final
+    draft).app

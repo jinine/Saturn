@@ -31,4 +31,4 @@ Anismuz
 - Space to shoot 
 - Try to get a high score without hitting an asteroid!
 
-- all music is original.
+- original music & score

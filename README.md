@@ -1,18 +1,22 @@
 # Saturn
 First Unity2D project --based off of Atari's Asteroids.
 
-* [Credits](#Credits)
-* [Technologies](#Technologies)
-* [Instructions](#Instructions)
+* [Credits](#credits)
+* [Technologies](#technologies)
+* [Instructions](#instructions)
 
-##Credits
+#Credits
+
 Created by:
+Tristan Engen
+
+Music by:
 Tristan Engen
 
 Assets by:
 Anismuz
 
-##Technologies
+#Technologies
 -Unity2D
 -Ableton
 -C#
@@ -20,7 +24,7 @@ Anismuz
 -Text Mesh Pro
 -Photoshop
 
-##Instructions
+#Instructions
 Use WASD to move 
 Space to shoot 
 Try to get a high score without hitting an asteroid!

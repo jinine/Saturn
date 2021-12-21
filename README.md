@@ -7,7 +7,7 @@
 * [Technologies](#technologies)
 * [Instructions](#instructions)
 
-#Credits
+# Credits
 
 Created by:
 Tristan Engen
@@ -18,7 +18,7 @@ Tristan Engen
 Assets by:
 Anismuz
 
-#Technologies
+# Technologies
 -Unity2D
 -Ableton
 -C#
@@ -26,7 +26,7 @@ Anismuz
 -Text Mesh Pro
 -Photoshop
 
-#Instructions
+# Instructions
 Use WASD to move 
 Space to shoot 
 Try to get a high score without hitting an asteroid!

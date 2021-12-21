@@ -1,7 +1,7 @@
 # Saturn
 >First Unity2D project --based off of Atari's Asteroids.
 
-###Table Of Contents
+#Table Of Contents
 
 * [Credits](#credits)
 * [Technologies](#technologies)
@@ -19,15 +19,16 @@ Assets by:
 Anismuz
 
 # Technologies
--Unity2D
--Ableton
--C#
--Particle System
--Text Mesh Pro
--Photoshop
+- Unity2D
+- Ableton
+- C#
+- Particle System
+- Text Mesh Pro
+- Photoshop
 
 # Instructions
-Use WASD to move 
-Space to shoot 
-Try to get a high score without hitting an asteroid!
-all music is original.
+- Use WASD to move 
+- Space to shoot 
+- Try to get a high score without hitting an asteroid!
+
+- all music is original.
